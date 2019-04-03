@@ -1,6 +1,5 @@
 # DikanCosmin.github.io
 # Eh volevi
-<!doctype html>
 <html>
 <head>
     <title>Example Domain</title>
